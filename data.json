@@ -1,0 +1,74 @@
+{
+  "users": [
+    {
+      "username": "onewell",
+      "password": "p123456"
+    },
+    {
+      "username": "pola",
+      "password": "l123456"
+    }
+  ],
+  "bookings": [
+    {
+      "fullName": "น้ำใส ใจดี",
+      "childCount": 1,
+      "adultCount": 2,
+      "timeSlot": "11:30 - 14:30",
+      "total": 350
+    },
+    {
+      "fullName": "น้ำใส ใจดี",
+      "childCount": 1,
+      "adultCount": 2,
+      "timeSlot": "11:30 - 14:30",
+      "total": 350
+    },
+    {
+      "fullName": "น้ำใส ใจดี",
+      "childCount": 2,
+      "adultCount": 2,
+      "timeSlot": "08:30 - 11:30",
+      "total": 400
+    },
+    {
+      "fullName": "น้ำใส ใจดี",
+      "childCount": 2,
+      "adultCount": 2,
+      "timeSlot": "08:30 - 11:30",
+      "total": 400
+    },
+    {
+      "fullName": "น้ำใส ใจดี",
+      "childCount": 2,
+      "adultCount": 2,
+      "bookingDate": "2025-04-11",
+      "timeSlot": "08:30 - 11:30",
+      "total": 400
+    },
+    {
+      "fullName": "น้ำใส ใจดี",
+      "childCount": 2,
+      "adultCount": 2,
+      "bookingDate": "2025-04-12",
+      "timeSlot": "11:30 - 14:30",
+      "total": 400
+    },
+    {
+      "fullName": "ยิ่งศักดิ์ ใหญ่โต",
+      "childCount": 3,
+      "adultCount": 4,
+      "bookingDate": "2025-04-13",
+      "timeSlot": "08:30 - 11:30",
+      "total": 750
+    },
+    {
+      "fullName": "kim sherry",
+      "childCount": 0,
+      "adultCount": 2,
+      "bookingDate": "2025-04-11",
+      "timeSlot": "11:30 - 14:30",
+      "total": 300
+    }
+  ]
+}

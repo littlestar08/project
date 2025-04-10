@@ -1,0 +1,41 @@
+{
+    "th": {
+      "login_title": "เข้าสู่ระบบ",
+      "register_title": "ลงทะเบียน",
+      "username": "ชื่อผู้ใช้",
+      "password": "รหัสผ่าน",
+      "login": "เข้าสู่ระบบ",
+      "register": "ลงทะเบียน",
+      "go_register": "ยังไม่มีบัญชี? ลงทะเบียน",
+      "register_success": "ลงทะเบียนสำเร็จ!",
+      "back_login": "กลับไปหน้าล็อกอิน",
+      "logout": "ออกจากระบบ",
+  
+      "booking_title": "ระบบจองตั๋ว",
+      "full_name": "ชื่อ-นามสกุล",
+      "child_tickets": "จำนวนเด็ก (50 บาท/คน)",
+      "adult_tickets": "จำนวนผู้ใหญ่ (150 บาท/คน)",
+      "calculate": "คำนวณราคา",
+      "confirm": "ยืนยันการจอง"
+    },
+    "en": {
+      "login_title": "Login",
+      "register_title": "Register",
+      "username": "Username",
+      "password": "Password",
+      "login": "Login",
+      "register": "Register",
+      "go_register": "Don't have an account? Register",
+      "register_success": "Registration successful!",
+      "back_login": "Back to login",
+      "logout": "Logout",
+  
+      "booking_title": "Ticket Booking System",
+      "full_name": "Full Name",
+      "child_tickets": "Children tickets (50 THB each)",
+      "adult_tickets": "Adult tickets (150 THB each)",
+      "calculate": "Calculate Price",
+      "confirm": "Confirm Booking"
+    }
+  }
+  
